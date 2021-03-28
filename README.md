@@ -1,3 +1,6 @@
+# Fork Description
+The goal of this fork is to enable this API to work on ARM64 Andorid.
+
 # Microsoft Research Detours Package
 
 Detours is a software package for monitoring and instrumenting API calls on Windows. Detours
